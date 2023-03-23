@@ -2,7 +2,6 @@
 
 **Authors:** Carlota Pascoal, _**Pedro Granjo**_*, Patrícia Mexia, João Rabaça, Diana Gallego, Rita Adubeiro Lourenço, Bélen Pérez, Margarida Castro-Caldas, Ana Rita Grosso, Vanessa dos Reis Ferreira, Paula Alexandra Videira (Corresponding Author)
 
-<span style="font-size: 50%;">*Main Author of the Developed Scripts</span>
 
 # Table of Contents
 
