@@ -1,6 +1,7 @@
 # Model of inflammation: When rare diseases give you lemons use fibroblasts
 
-**Authors:** Carlota Pascoal, Pedro Granjo, Patrícia Mexia, João Rabaça, Diana Gallego, Rita Adubeiro Lourenço, Bélen Pérez, Margarida Castro-Caldas, Ana Rita Grosso, Vanessa dos Reis Ferreira, Paula Alexandra Videira (Corresponding Author)
+**Authors:** Carlota Pascoal, Pedro Granjo, Patrícia Mexia, João Rabaça, Diana Gallego, Rita Adubeiro Lourenço, Bélen Pérez, Margarida Castro-Caldas, Ana Rita Grosso, Vanessa dos Reis Ferreira*, Paula Alexandra Videira* 
+*(Corresponding Author)
 
 
 # Table of Contents
