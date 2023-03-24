@@ -18,7 +18,7 @@ The study aimed to describe the molecular response of human skin fibroblasts to 
 
 # Requirements
 
-To run the scripts it is required R (programming language) with
+To run the scripts it is required R (programming language) with the following packages installed:
 
 - biomaRt
 - edgeR
